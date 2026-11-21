@@ -1,68 +1,74 @@
-# Hi, I'm Aswini K 👋
+# 👋 Hi, I'm Aswini K
 
-### Aspiring Software Engineer | Backend & Frontend Developer
+<h3 align="center">Aspiring Software Engineer | Backend & Frontend Developer</h3>
 
-💻 Passionate about Software Engineering, Backend Development and Frontend Development.
+<p align="center">
+  Passionate about building real-world applications, developing software solutions and solving problems through code.
+</p>
 
-🎓 B.Tech Computer Science Engineering Student
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-- 🔭 Currently building **TrustCart** using Java and Spring Boot
-- 🌱 Learning Data Structures & Algorithms using Java
-- ⚙️ Interested in Backend Engineering and System Design
-- 🎨 Exploring React and modern frontend technologies
-- 🎯 Goal: Become a Software Engineer at a leading product-based company
+---
+
+## 💫 About Me
+
+- 🎓 Computer Science Engineering Student
+- 💻 Interested in Software Engineering and Application Development
+- ⚙️ Learning Backend Development with Java and Spring Boot
+- 🎨 Exploring Frontend Development with React
+- 🧠 Practicing Data Structures and Algorithms using Java
+- 🚀 Building projects to gain real-world development experience
+- 🎯 Aspiring to work at a leading product-based company
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Languages:** Java, Python, C++, JavaScript
-
-**Frontend:** HTML, CSS, React.js, Bootstrap
-
-**Backend:** Java, Spring Boot, Django, REST APIs
-
-**Database:** MongoDB, SQL
-
-**Tools:** Git, GitHub, VS Code, IntelliJ IDEA, Postman
+| Category | Technologies |
+|---|---|
+| Languages | Java, Python, C++, JavaScript |
+| Frontend | HTML, CSS, React.js, Bootstrap |
+| Backend | Spring Boot, Django, REST APIs |
+| Database | MongoDB, SQL |
+| Tools | Git, GitHub, VS Code, IntelliJ IDEA, Postman |
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 My Projects
 
 ### 🛡️ TrustCart – Website Trust & Scam Detection Platform
 
-TrustCart is a web-based platform designed to help users evaluate the trustworthiness of websites and identify potentially suspicious or fraudulent websites before interacting with them.
+A web-based platform designed to help users evaluate website trustworthiness and identify potentially suspicious or fraudulent websites.
 
-**Key Features:**
-- Website URL submission and scanning.
-- Website trust and risk assessment.
-- User registration and management.
-- Scan history tracking.
-- Scan reports for users.
-- Seller information management.
+**Key Features**
+- Website URL scanning
+- Website trust and risk assessment
+- User registration and management
+- Scan history tracking
+- Report generation
+- Seller information management
 
-**Tech Stack:** Java, Spring Boot, REST APIs
+**Technologies:** Java, Spring Boot, REST APIs
 
-**My Role:** Backend Development – designing REST APIs, implementing controllers, services and backend functionality.
-
----
+**Status:** Currently in development
 
 ### 🏦 Bank Management System
 
-Bank Management System is a web-based application developed using Python and Django to simplify banking operations and manage customer account information. It provides a structured way to handle banking activities through a centralized application.
+A web-based banking application developed using Python and Django to manage customer accounts and banking operations through a centralized system.
 
-**Key Features:**
-- Customer account registration and management.
-- Account information management.
-- Deposit and withdrawal operations.
-- Balance enquiry.
-- Transaction management.
-- Secure user authentication and access.
+**Key Features**
+- Customer account management
+- Account information handling
+- Deposit and withdrawal operations
+- Balance enquiry
+- Transaction management
 
-**Tech Stack:** Python, Django
-
-**My Role:** Application Development – working on backend functionality and web application development.
+**Technologies:** Python, Django
 
 ---
 
@@ -80,16 +86,23 @@ Bank Management System is a web-based application developed using Python and Dja
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aswini-K11&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aswini-K11&layout=compact&theme=github_dark&hide_border=true)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aswini-K11&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswini-K11&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 
-- GitHub: [Aswini-K11](https://github.com/Aswini-K11)
+<p align="center">
+  <a href="https://github.com/Aswini-K11">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-⭐ Always learning, building and improving!
+<p align="center">
+  ⭐ Building today, becoming better tomorrow.
+</p>
